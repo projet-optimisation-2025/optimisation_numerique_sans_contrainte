@@ -48,8 +48,5 @@ Pour **chaque fonction**, produire un **notebook Jupyter complet**, contenant :
 
 │
 ├── README.md
-├── rosenbrock.ipynb
-├── quadratique.ipynb
-├── himmelblau.ipynb
-├── experimentation_support_cour.ipynb
+├── TP_OptimisationNumeriqueSansContraintes.ipynb
 └── requirements.txt(Les dependances utilises)
